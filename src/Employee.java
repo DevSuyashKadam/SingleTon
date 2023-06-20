@@ -5,7 +5,7 @@
 	
 	int roll_num=11;
 	String name="Suyash";
-	public Student() {
+	private Student() {
 		super();
 		// TODO Auto-generated constructor stub
 	}
